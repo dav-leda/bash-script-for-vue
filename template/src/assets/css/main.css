@@ -6,3 +6,23 @@
   width: 100%;
 }
 
+.main {
+  margin: 1rem;
+  padding: 1rem;
+  border: 1px solid;
+  border-radius: 0.3rem;
+  min-height: 95vh;
+  text-align: center;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.u {
+  text-decoration: underline;
+}
+
+.mt-2 {
+  margin-top: 2rem;
+}

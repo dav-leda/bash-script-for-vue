@@ -1,6 +1,10 @@
 <template>
 
-  <h1>Some Component</h1>
+  <div class="mt-2">
+
+    <h1>Componente</h1>
+
+  </div>
   
 </template>
 
