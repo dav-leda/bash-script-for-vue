@@ -32,7 +32,7 @@ __3.__ Luego de creado el proyecto ejecutan el script (sin cambiar de dir) agreg
 ~/bash-script-for-vue/vue-init.sh nombre-del-proyecto
 ```
 
-__4.__ Ahí se van a instalar las dependencias con pnpm y luego se inicia el servidor de desarrollo de Vite. Una vez que arranca el servidor de desarrollo de Vite entrar con el browser a la URL de desarrollo (suele ser `http://localhost:5173/`).
+__4.__ Una vez instaladas las 
 
 Y listo, ya pueden ver el proyecto corriendo en el browser 🥳️
 

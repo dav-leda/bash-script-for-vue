@@ -1,7 +1,7 @@
 #!/bin/bash
 
 if [ $# -eq 0 ]; then
-  echo "Debes ingresar el nombre del proyecto."
+  echo "Debes ingresar el nombre del proyecto: vue-init.sh nombre-del-proyecto."
 else
   dir="$1"
 
@@ -36,8 +36,7 @@ else
     # abrir con VS Code
     code .
 
-    # correr el servidor de desarrollo de vite
-    pnpm run dev
+    echo "Listo. Ya podes iniciar el servidor de desarrollo de Vite: npm run dev"
 
   else
     echo "No existe un proyecto con el nombre '$dir'."
