@@ -2,7 +2,7 @@
 
 ## vue-init.sh
 
-`vue-init.sh` es un script para Linux que permite inicilizar un proyecto de __Vue 3 + Vite__ instalando las dependencias con [pnpm](https://pnpm.io/), borrando todo el _boilerplate_ creado por defecto (`HelloWorld.vue`, `TheWelcome.vue`, etc.) y creando un par de componentes vacíos, además de un archivo `.env` para guardar variables de entorno (agregando este archivo a `.gitignore` para que no sea subido a GitHub).
+`vue-init.sh` es un script para Linux que permite inicializar un proyecto de __Vue 3 + Vite__ instalando las dependencias con [pnpm](https://pnpm.io/), borrando todo el _boilerplate_ creado por defecto (`HelloWorld.vue`, `TheWelcome.vue`, etc.) y creando un par de componentes vacíos, además de un archivo `.env` para guardar variables de entorno (agregando este archivo a `.gitignore` para que no sea subido a GitHub).
 
 Para poder usarlo primero deben instalar la versión para Linux de [GitHub CLI](https://cli.github.com/). Si están usando Windows, antes que nada deben instalar una [distro](https://es.wikipedia.org/wiki/Distribuci%C3%B3n_Linux) de Linux en Windows mediante [WSL](https://learn.microsoft.com/en-us/windows/wsl/install). La distro más fácil de usar es __Ubuntu__ (la última versión LTS de Ubuntu, en Junio 2023, es la 22.04).
 
