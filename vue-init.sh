@@ -1,5 +1,12 @@
 #!/bin/bash
 
+# chequear si el usuario agregó el nombre del proyecto
+# si no lo agregó detener la ejecución y mostrar el mensaje de error
+if [ "$#" -eq 0 ]; then
+  echo "Debes agregar el nombre del proyecto luego del script: vue-init.sh nombre-del-proyecto"
+  exit 1
+fi
+
 # el script toma como primer param el dir del proyecto
 cd $1
 
