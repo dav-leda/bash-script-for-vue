@@ -36,7 +36,7 @@ else
     # abrir con VS Code
     code .
 
-    echo "Listo. Ya podes iniciar el servidor de desarrollo de Vite: npm run dev"
+    echo "Listo. Ya podes iniciar el servidor de desarrollo de Vite: pnpm run dev"
 
   else
     echo "No existe un proyecto con el nombre '$dir'."
