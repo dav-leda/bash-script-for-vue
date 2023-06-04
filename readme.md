@@ -14,7 +14,7 @@ __1.__ Ir al dir `/home` de Linux, clonar este repositorio, ir al dir del reposi
 # ir a /home
 cd
 # clonar el repo
-gh repo clone dav-leda/bash-script-for-fue
+gh repo clone dav-leda/bash-script-for-vue
 # ir al dir del repo
 cd bash-script-for-vue
 # autorizar la ejecución del script
